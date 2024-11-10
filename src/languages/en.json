@@ -1,0 +1,264 @@
+  {
+      "futureOfWorld": "Future of World",
+      "linked": "Linked",
+      "toIntelligence": "To Intelligence",
+      "services": "services",
+      "industries": "industries",
+      "partners": "partners",
+      "customers": "customers",
+      "newsAndEvents": "News & Events",
+      "aboutUs": "About Us",
+      "dataScienceParagraph": "Data science: Data Processing and Data Modeling for Companies",
+      "visionParagraph": "Meapal Information Systems is always striving to undertake major projects aimed at enhancing work efficiency through modern technology. As a pioneering company, it specializes in developing information infrastructure programs and delivering comprehensive IT and communication solutions and services to organizations, institutions, and companies through a network of specialized units and departments.",
+      "homeKnowHow": "Meapal, the correlation of know-how",
+      "meapalVision": "Meapal Vision",
+      "performanceAndInnovation": "Performance & Innovation",
+      "ourCommitment": "Our commitment to Performance & Innovation fuels growth, delivering advanced solutions that drive success.",
+      "skillAndTeamCohesion" : "Skill & Team cohesion",
+      "skillParagraph": "Skill & Team Cohesion empowers us to collaborate seamlessly, leveraging expertise for outstanding results.",
+      "customerSatisfaction": "Customer Satisfaction",
+      "customerParagraph" : "Customer Satisfaction is at the heart of our mission, driving us to exceed expectations and build lasting trust.",
+      "seeMore": "See More",
+      "meapal": "Meapal",
+      "values": "Values",
+    "aimsAndScopeIn": "Aims and scope in",
+    "technicalSupport": "technical support",
+      "pilotageSupportText": "Our Pilotage IT Support Team operates around the clock, providing seamless support 24/7 through three dedicated shifts (AM, PM, and Night). New team members undergo a rigorous one-month training period to ensure they meet our high standards of service. With over 150 clients relying on us, the team handles approximately 100 tickets daily, maintaining efficient, responsive service for each request. The team consists of 16 skilled pilots who are committed to managing client needs with expertise and reliability at all hours.",
+        "discover": "Discover",
+        "dataScience": "data science",
+          "dataScienceText": "We harness the power of data to drive innovation and deliver actionable insights. Our data science projects are designed to transform complex data into clear, meaningful information that supports strategic decision-making. By employing advanced statistical techniques, machine learning algorithms, and data visualization tools, we tackle real-world challenges across various industries.",
+          "seeMeapal": "See Meapal",
+          "references": "References",
+          "correlatingDataText": "Correlating data means making it efficient, honest, compliant, structured, indexed & homogeneous.",
+            "company": "Company",
+            "whyChooseUs": "Why Choose Us",
+            "knowHow": "Know How",
+              "resources": "Resources",
+              "privacyPolicy": "Privacy Policy",
+              "termsAndConditions": "Terms and Conditions",
+              "blog": "Blog",
+              "contactUs": "Contact Us",
+              "product": "Product",
+              "projectManagement": "Project management",
+              "timeTracker": "Time tracker",
+              "timeSchedule": "Time schedule",
+              "leadGenerate": "Lead generate",
+              "remoteCollaboration": "Remote Collaboration",
+              "phone": "+33 (0)1 58 87 32 00",
+              "whereToFindUs": "Where to find us?",
+              "address": "Degla Plaza, Street 199, Maadi, Cairo Governorate 11435",
+              "copyright": "Copyright @MEAPAL2023",
+               "cyberSecurityTool": "An internal tool specifically designed for the cybersecurity team for reports generation and multiple files management.",
+              "softwareDevelopmentServices": "Software Development Services",
+              "cyberSecurity": "Cyber Security",
+              "reportGeneration": "Report Generation",
+              "toolCOCA4000": "Tool (COCA 4000)",
+              "web": "Web",
+              "applicant": "Applicant",
+              "systemDescription": "This system allows multiple users with multiple roles to add information and partake in the process of the generation. Users can add POCs, questions, VRTs, clients, and projects inside the system, which automatically organizes them and eases the process of searching.",
+               "features": "Features",
+               "userManagement": "User Management",
+               "organizationAndProjectManagement": "Organization and Project Management",
+               "reportingAndMetrics": "Reporting and Metrics",
+               "vulnerabilityReporting": "Vulnerability Reporting",
+               "vulnerabilityManagement": "Vulnerability Management",
+              "title": " Dashboard",
+        " subtitle": " Main Frame",
+        "description":"A dashboard made for the mainframe ZOS systems, which automates manual tasks by dispatching a defined sequence of commands to ZOS server, making it much easier for the users to get the job done, by replacing the old AS400 command line interface with a modern user-friendly web UI and highly saving time and increasing the productivity. Users can create custom commands inside the system to be sent to the server, and customize the result which will be shown to the user, and also schedule the commands to run at any given time.",
+        "heading": " Features:",
+        "feature1": " User Management",
+        "feature2": " Adding servers",
+        "feature3": "Commands creation",
+        "feature4": " Dashboard",
+        "feature5": " Command Scheduling",
+         "selfService": "Self-Service",
+         "portal": "Portal",
+          "selfServicePortal": "The Self-Service Portal empowers employees by centralizing access to essential services, enabling them to manage tasks and requests independently. Through its intuitive interface, it streamlines administrative processes, enhancing efficiency and productivity. By reducing reliance on support staff, it fosters a culture of self-reliance and accountability. Real-time visibility into request status promotes improved communication and faster resolutions, heightening user satisfaction. Overall, the portal represents a transformative tool for optimizing resource utilization and cultivating a more agile workforce.",
+          "requestAccessGitLab": "Request access to specific groups within GitLab",
+          "requestAccountCreationJupyter": "Request account creation in Jupyter",
+          "managePasswordChangesActiveDirectory": "Manage password changes for Active Directory accounts",
+          "managePasswordChangesExtranet": "Manage password changes for Extranet accounts",
+          "submitSoftwareInstallationRequests": "Submit requests for software installation",
+          "database": "Database",
+          "Monitoring": "Monitoring ",
+          "Tool": "Tool",
+          "databaseMonitoringDescription": "This database monitoring is a comprehensive solution for streamlining database administration tasks. It offers tools for development, deployment, monitoring, and performance optimization, along with features for data protection and compliance. With capabilities for version control, schema comparison, and synchronization, it helps maintain consistency across environments. Overall, it's a powerful tool for enhancing efficiency, reliability, and security throughout the database lifecycle.",
+          "featuresHeading": "Features:",
+  "featuree1": "Development Tools",
+  "featuree2": "Deployment Automation",
+  "featuree3": "Graphs System",
+  "featuree4": "Monitoring and Performance Optimization",
+  "featuree5": "User Management",
+  "dirprod": "Dirprod",
+  "Bot": " Bot",
+  "description2": "This application is a chatbot integrated with Teams, designed to support companies with remote employees. It engages employees through interactive questions to assess well-being and productivity. Admins can monitor responses via a centralized dashboard, gaining real-time insights for proactive management. It enhances communication and fosters a supportive work environment for remote teams.",
+  "remoteWorkChatbot": "Remote Work Chatbot",
+  "employeeEngagement": "Employee Engagement",
+  "adminDashboard": "Admin Dashboard",
+  "realTimeInsights": "Real-time Insights",
+  "enhancedCommunication": "Enhanced Communication",
+  "cockpit": "Cockpit",
+  "Tools": "Tools",
+  "cockpitToolsDescription": "The integration between the cockpit system and the EasyVista system via APIs establishes a seamless connection, enabling efficient data exchange and collaboration between the two platforms. By synchronizing data in real-time, updates made in either system are immediately reflected in the other, ensuring consistency and accuracy across workflows.",
+  "apiIntegration": "API Integration",
+  "realTimeDataSync": "Real-Time Data Sync",
+  "biDirectionalCommunication": "Bi-Directional Communication",
+  "automatedProcesses": "Automated Processes",
+  "enhancedEfficiency": "Enhanced Efficiency",
+  "customizableMapping": "Customizable Mapping",
+  "individualizedDashboards": "Individualized Dashboards",
+  "realTimeUpdates": "Real-time Updates",
+  "UserManagement": "User Management",
+  "eventRegistration": "Event Registration",
+  "venueManagement": "Venue Management",
+    "gameManagementSystem": "The Game Management System is a centralized platform for stakeholders including users, players, attendees, and hosts. It offers individualized dashboards for each game, providing real-time updates on schedules and results. Key features include robust user management for efficient account and permission management. Participants can register for events and access personalized schedules. Attendees benefit from ticket purchasing and venue information. Hosts can manage venues, coordinate volunteers, and promote events.",
+     "game": "Game",
+      "management": "Management",
+        "system": "System",
+          "as400": "AS400",
+            "automation": "Automation",
+              "bsfDescription": "BSF automates manual tasks by dispatching a defined sequence of commands to an AS400 server, making it much easier for the users to get the job done, by replacing the old AS400 command line interface with a modern user-friendly web UI and highly saving time and increasing the productivity by demolishing the need to re-execute every command to achieve a repetitive task. It does that by enabling the users to define tasks in a generic way with variable parameters to be dispatched to the server and reports the result of the execution back to the user. It also allows users to create collections of the previously defined tasks to be executed in sequence and ensures the success of each task before executing the next.",
+                "ffeature1": "Task Creation with Variable Parameters",
+                "ffeature2": "Sequential Execution in Shops",
+                "ffeature3": "Comprehensive Task Execution Reporting",
+                "ffeature4": "Task Collection Management",
+                  "erpnxt": "ERPNEXT",
+                    "erp_description": "Simplify and streamline your global business operations with a centralized ERP solution. Manage financials, sales, supply chain, HR, and more with a customizable and adaptable platform.",
+                      "sales_crm": "Sales & CRM",
+                      "purchasing_supply_chain": "Purchasing & Supply Chain",
+                      "manufacturing": "Manufacturing",
+                      "project_management": "Project Management",
+                      "business_intelligence_reporting": "Business Intelligence & Reporting",
+                      "e_commerce_integration": "E-commerce Integration",
+                        "dataScienceServices": "Data Science Services",
+                          "camelCustomized": "Camel: Customized",
+                            "largeLanguageModel": "Large Language Model",
+                              "personalizedAiAssistant": "Personalized AI Assistant for Organizational Insights",
+                                "camelDescription": "Camel is a tailored LLM solution designed to transform how organizations access and utilize their data. With the ability to understand and analyze information across departments, Camel answers complex queries with precision, empowering companies to make data-driven decisions effortlessly.",
+                                  "intelligentVideoSurveillance": "Intelligent Video Surveillance",
+                                  "videoSurveillance": "Video Surveillance",
+                                    "aiPoweredVideoSurveillance": "AI-Powered Video Surveillance & Analytics",
+                                    "ivsDescription": "Our IVS system leverages cutting-edge computer vision technology to process multiple video feeds simultaneously, identifying over 80 object classes, human keypoints, and more. From vehicle plate detection to workout tracking and crowd analysis, our solution enhances security with customizable region-specific rules, suspicious object detection, and a comprehensive analytics dashboard.",
+                                      "aiPoweredRecruitmentPlatform": "AI-Powered Recruitment Platform",
+                                      "intelligentHiringPlatform": "Intelligent Hiring Platform for Job Seekers & Companies",
+                                      "candiJobDescription": "CandiJob simplifies recruitment through AI. Job seekers can upload their CVs, and our system handles the rest—analyzing resumes, identifying skill gaps, and matching candidates with job openings. For companies, the platform automatically matches candidates to job requirements and provides AI-driven interview analysis and HR insights.",
+                                        "portTerminalTitle": "Port Terminal",
+                                        "smartSolutionsTitle": "Smart Solutions",
+                                          "smartPortOperations": "AI Solutions for Smarter Port Operations",
+                                            "portManagementIntro": "Revolutionize port management with our AI-driven solutions. Our platform provides real-time dashboards for monitoring port performance and optimizes operations with models like:",
+                                            "vesselBerthAllocation": "Vessel Berth Allocation Prediction: Efficiently assign vessels to berths, reducing wait times.",
+                                            "vesselOperationTimeAnalysis": "Vessel Operation Time Analysis: Accurately estimate operational durations for better planning.",
+                                            "containerSuspicionPrediction": "Container Suspicion Prediction: Detect potentially suspicious containers using data from various sources to enhance port security.",
+                                              "otherFields": "Other fields we",
+                                                "specialize": "specialize",
+                                                  "in": "in",
+                                                    "marketing": "Marketing",
+                                                      "banking": "Banking",
+                                                      "educational": "Educational",
+                                                      "agricultural": "Agricultural",
+                                                        "internetOf": "Internet of",
+                                                          "things": "Things",
+                                                            "iot_paragraph": "Our company leverages data science to unlock the full potential of the Internet of Things (IoT) by transforming the vast data generated by connected devices into actionable insights. Through advanced analytics and machine learning algorithms, we identify patterns and trends in real-time data, enabling predictive maintenance and informed decision-making for our clients. For instance, in smart home applications, we optimize energy consumption by analyzing usage patterns and offering tailored recommendations for efficiency. Additionally, our solutions enhance smart city initiatives by analyzing traffic data to improve transportation systems and reduce congestion. By harnessing data science for IoT, we empower organizations to achieve improved operational efficiency and deliver enhanced user experiences.",
+                                                              "gdpr_title": "GDPR Data Protection Services",
+                                                                "data_inventory_title": "Data and Inventory",
+                                                                 "planning": "Planning",
+                                                                  "dataInventoryMapping": "Data and inventory mapping services help businesses identify and plan their data flows while creating a comprehensive inventory of personal data.",
+                                                                    "data": "Data",
+                                                                      "protectionOfficer": "Protection Officer",
+                                                                        "dpoService": "We provide Data Protection Officer (DPO) as a service to support organizations in meeting their data protection obligations. Our experienced DPOs act as advisors and intermediaries, ensuring compliance with data protection regulations such as GDPR. They oversee data handling practices, manage risk assessments, and provide training to staff. By outsourcing DPO responsibilities to us, businesses can focus on their core operations while maintaining a robust and compliant data protection framework.",
+                                                                              "dataProtection": "Data Protection",
+                                                                                "impactAssessments": "Impact Assessments",
+                                                                                    "dpiaServicesText": "DPIA services assist in identifying and assessing risks associated with data processing activities and implementing appropriate preventative measures.", 
+"itSupportText": "Our Pilotage IT Support Team operates around the clock, providing seamless support 24/7 through three dedicated shifts (AM, PM, and Night). New team members undergo a rigorous one-month training period to ensure they meet our high standards of service. With over 150 clients relying on us, the team handles approximately 100 tickets daily, maintaining efficient, responsive service for each request. The team consists of 16 skilled pilots who are committed to managing client needs with expertise and reliability at all hours.",
+"aimsAndScope": "Aims and scope in",
+  "netSuite": "Net Suite",
+  "predictiveMaintenanceQualityControl": "Predictive Maintenance & Quality Control",
+   "processOptimizationAutomation": "Process Optimization & Automation",
+   "realTimeTrackingMonitoring": "Real-Time Tracking & Monitoring",
+   "anomalyDetection": "Anomaly Detection",
+    "safetyAndSecurity": "Safety & Security",
+  "carTrucksRelatedProducts": "Car/Trucks Related Products",
+    "humanResources": "Human Resources",
+  "financialBankingServices": "Financial / Banking Services",
+  "serviceManagement": "Service Management",
+  "healthcare": "Healthcare",
+  "smartIoT": "Smart Internet of Things",
+  "complexConvergentInfrastructures": "Complex & convergent Infrastructures",
+  "applicationUserExperience": "Application & User experience",
+  "dataManagement": "Data Management",
+  "cloudPowerSystems": "Cloud & Power Systems",
+  "customerWe": "Customer We",
+  "proudly": "proudly",
+  "workedWith": "Worked With...",
+  "professionalServices": "Professional Services",
+  "timeAndMaterial": "Time and Material",
+  "smCloud": "SM / Cloud",
+   "newsAnd": "News &",
+   "events": "Events",
+   "technicalDebtTitle": "TECHNICAL DEBT AND SOFTWARE COMPOSITION ANALYSIS: \"A MULTI DISCIPLINARY APPROACH\"",
+   "eventDate": "4 June 2024",
+   "technicalDebtDescription": "Technical debt (TD) is a critical aspect of software development with significant economic implications. TD represents shortcuts taken during development that create future maintenance burdens, impacting long-term costs. This conference gathers scientific, academic and IT industrial stakeholders to deep dive into the Technical Debt with its negative impact on the IT market growth and digital integration post COVID. Also, this conference aims to bring together researchers and practitioners from various computer science (CS) majors to explore the intersection of TD, SCA, and their economic considerations within a multi-disciplinary framework.",
+   "goToWebsite": "Go to Website"
+
+  
+                                                                                
+                                                                            
+                                                                          
+                                                                  
+                                                                        
+                                                                      
+                                                                    
+                                                                    
+                                                                                                                                                                                          
+                                                              
+                                                              
+                                                            
+                                                                                                          
+                                                                                                                    
+                                                                                                              
+                                                        
+                                                      
+                                                                                                                
+                                                                                                          
+
+
+                                                                                                      
+                                                      
+                                                      
+                                                                                                        
+                                                                                                  
+                                                                                                
+                                                                                          
+                                                                                      
+                                          
+                                        
+                                                                        
+                                                                    
+                                                                                          
+                                                        
+                                                  
+                                                
+                                          
+                                            
+                                              
+                
+              
+                        
+                    
+        
+            
+        
+     
+
+
+        
+        
+        
+     
+  
+    
+
+        
+    
+    
+  }
